@@ -1,7 +1,7 @@
 # 🛡️ AI-Powered Intrusion Prevention System
 
-> Master's Thesis  Distributed Information Systems Engineering and Security (ISIDS)
-> University of Batna 2 — Faculty of Mathematics and Computer Science
+> Master's Thesis - Distributed Information Systems Engineering and Security (ISIDS)
+> University of Batna 2 - Faculty of Mathematics and Computer Science
 > Defended June 2, 2026 
 
 An AI-driven Intrusion Prevention System capable of distinguishing malicious network flows from legitimate traffic in real time, benchmarked on **700,000+ real NetFlow records** across a 5-phase experimental pipeline covering classical Machine Learning, ensemble methods, and Deep Learning (Transformers).
@@ -12,7 +12,8 @@ An AI-driven Intrusion Prevention System capable of distinguishing malicious net
 
 ## 👥 Authors
 
-
+| | |
+|---|---|
 | **Abdenebi Taha Abdelmalik** | [GitHub](https://github.com/tahx00) · [LinkedIn](https://www.linkedin.com/in/tahaabdenebi) |
 | **Chaker Abdelhafid** | [GitHub](https://github.com/Chaker-AB) |
 
